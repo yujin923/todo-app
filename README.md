@@ -14,11 +14,13 @@ React + TypeScript + Vite + Express + MariaDB로 만든
 
 ## Tech Stack
 Frontend
+
 -React
 -TypeScript
 -Vite
 
 Backend
+
 -Node.js
 -Express
 -MariaDB
@@ -28,7 +30,6 @@ Backend
 my-todo-app
 
 |-- src (frontend)
-
 |-- backend (server + DB)
 
 ## Run
