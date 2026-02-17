@@ -1,4 +1,4 @@
-#📝 Todo App (Login 기반)
+# 📝 Todo App (Login 기반)
 
 React + TypeScript + Vite + Express + MariaDB로 만든
 로그인 기반 개인 Todo 관리 서비스입니다.
