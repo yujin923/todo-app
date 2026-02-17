@@ -5,8 +5,11 @@ React + TypeScript + Vite + Express + MariaDB로 만든
 
 ## Feature
 -회원가입 / 로그인 (JWT 인증)
+
 -사용자별 Todo 관리
+
 -Todo 추가 / 완료 체크
+
 -로그아웃 기능
 
 ## Tech Stack
@@ -23,7 +26,9 @@ Backend
 
 ## Project Structure
 my-todo-app
+
 |-- src (frontend)
+
 |-- backend (server + DB)
 
 ## Run
